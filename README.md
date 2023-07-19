@@ -1,1 +1,1 @@
-# django-basics
+# Django Basics [main]
