@@ -1,1 +1,7 @@
+
+
 env_app/
+
+# Carpetas con las que tengo dudas.
+premiosgpapp/db.sqlite3
+premiosgpapp/premiosgpapp/__pycache__/
